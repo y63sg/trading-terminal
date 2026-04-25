@@ -1,0 +1,41 @@
+[
+  {"date": "2025-07-03", "event": "NFP", "actual": 147, "forecast": 110, "previous": 144, "xauusd_15m": -85, "xauusd_1h": -120, "session": "NY"},
+  {"date": "2025-07-03", "event": "Unemployment", "actual": 4.1, "forecast": 4.2, "previous": 4.2, "xauusd_15m": -45, "xauusd_1h": -70, "session": "NY"},
+  {"date": "2025-07-15", "event": "CPI", "actual": 2.7, "forecast": 2.6, "previous": 2.4, "xauusd_15m": -45, "xauusd_1h": -65, "session": "NY"},
+
+  {"date": "2025-08-01", "event": "NFP", "actual": 73, "forecast": 100, "previous": 147, "xauusd_15m": 110, "xauusd_1h": 175, "session": "NY"},
+  {"date": "2025-08-01", "event": "Unemployment", "actual": 4.2, "forecast": 4.1, "previous": 4.1, "xauusd_15m": 60, "xauusd_1h": 90, "session": "NY"},
+  {"date": "2025-08-12", "event": "CPI", "actual": 2.9, "forecast": 2.8, "previous": 2.7, "xauusd_15m": -55, "xauusd_1h": -80, "session": "NY"},
+
+  {"date": "2025-09-05", "event": "NFP", "actual": 22, "forecast": 75, "previous": 73, "xauusd_15m": 180, "xauusd_1h": 285, "session": "NY"},
+  {"date": "2025-09-05", "event": "Unemployment", "actual": 4.3, "forecast": 4.3, "previous": 4.2, "xauusd_15m": 20, "xauusd_1h": 35, "session": "NY"},
+  {"date": "2025-09-10", "event": "CPI", "actual": 2.6, "forecast": 2.7, "previous": 2.9, "xauusd_15m": 75, "xauusd_1h": 130, "session": "NY"},
+
+  {"date": "2025-10-03", "event": "NFP", "actual": 254, "forecast": 150, "previous": 22, "xauusd_15m": -210, "xauusd_1h": -310, "session": "NY"},
+  {"date": "2025-10-03", "event": "Unemployment", "actual": 4.1, "forecast": 4.2, "previous": 4.3, "xauusd_15m": -75, "xauusd_1h": -110, "session": "NY"},
+  {"date": "2025-10-15", "event": "CPI", "actual": 2.4, "forecast": 2.5, "previous": 2.6, "xauusd_15m": 85, "xauusd_1h": 140, "session": "NY"},
+
+  {"date": "2025-11-07", "event": "NFP", "actual": 12, "forecast": 110, "previous": 254, "xauusd_15m": 245, "xauusd_1h": 380, "session": "NY"},
+  {"date": "2025-11-07", "event": "Unemployment", "actual": 4.2, "forecast": 4.1, "previous": 4.1, "xauusd_15m": 85, "xauusd_1h": 130, "session": "NY"},
+  {"date": "2025-11-13", "event": "CPI", "actual": 2.7, "forecast": 2.6, "previous": 2.4, "xauusd_15m": -50, "xauusd_1h": -75, "session": "NY"},
+
+  {"date": "2025-12-05", "event": "NFP", "actual": 227, "forecast": 220, "previous": 12, "xauusd_15m": -25, "xauusd_1h": -40, "session": "NY"},
+  {"date": "2025-12-05", "event": "Unemployment", "actual": 4.1, "forecast": 4.2, "previous": 4.2, "xauusd_15m": -40, "xauusd_1h": -65, "session": "NY"},
+  {"date": "2025-12-11", "event": "CPI", "actual": 2.9, "forecast": 2.7, "previous": 2.7, "xauusd_15m": -120, "xauusd_1h": -180, "session": "NY"},
+
+  {"date": "2026-01-09", "event": "NFP", "actual": 256, "forecast": 165, "previous": 227, "xauusd_15m": -180, "xauusd_1h": -270, "session": "NY"},
+  {"date": "2026-01-09", "event": "Unemployment", "actual": 4.0, "forecast": 4.1, "previous": 4.1, "xauusd_15m": -90, "xauusd_1h": -135, "session": "NY"},
+  {"date": "2026-01-15", "event": "CPI", "actual": 3.0, "forecast": 2.9, "previous": 2.9, "xauusd_15m": -65, "xauusd_1h": -95, "session": "NY"},
+
+  {"date": "2026-02-06", "event": "NFP", "actual": 143, "forecast": 169, "previous": 256, "xauusd_15m": 95, "xauusd_1h": 145, "session": "NY"},
+  {"date": "2026-02-06", "event": "Unemployment", "actual": 4.0, "forecast": 4.1, "previous": 4.0, "xauusd_15m": -55, "xauusd_1h": -85, "session": "NY"},
+  {"date": "2026-02-12", "event": "CPI", "actual": 3.0, "forecast": 2.9, "previous": 3.0, "xauusd_15m": -55, "xauusd_1h": -80, "session": "NY"},
+
+  {"date": "2026-03-06", "event": "NFP", "actual": 151, "forecast": 160, "previous": 143, "xauusd_15m": 35, "xauusd_1h": 50, "session": "NY"},
+  {"date": "2026-03-06", "event": "Unemployment", "actual": 4.1, "forecast": 4.0, "previous": 4.0, "xauusd_15m": 50, "xauusd_1h": 75, "session": "NY"},
+  {"date": "2026-03-12", "event": "CPI", "actual": 2.8, "forecast": 2.9, "previous": 3.0, "xauusd_15m": 90, "xauusd_1h": 140, "session": "NY"},
+
+  {"date": "2026-04-03", "event": "NFP", "actual": 303, "forecast": 200, "previous": 151, "xauusd_15m": -195, "xauusd_1h": -290, "session": "NY"},
+  {"date": "2026-04-03", "event": "Unemployment", "actual": 3.9, "forecast": 4.1, "previous": 4.1, "xauusd_15m": -135, "xauusd_1h": -200, "session": "NY"},
+  {"date": "2026-04-10", "event": "CPI", "actual": 3.5, "forecast": 3.1, "previous": 3.0, "xauusd_15m": -210, "xauusd_1h": -315, "session": "NY"}
+]
