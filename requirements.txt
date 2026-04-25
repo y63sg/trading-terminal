@@ -1,0 +1,17 @@
+# Заавал шаардлагатай
+streamlit>=1.36
+yfinance>=0.2.40
+pandas>=2.0,<2.3
+numpy>=1.26,<3.0
+plotly>=5.20
+anthropic>=0.34
+requests>=2.31
+python-dateutil>=2.9
+
+# UI нэмэлт
+streamlit-lightweight-charts>=0.7.21
+
+# Сонголттой — pandas-ta хүсвэл сууна. Хэрэв энэ суулгахад алдаа өгвөл
+# (numpy 2.x-тэй ялангуяа) — strategy.py доторх fallback EMA/RSI/ATR
+# автоматаар ажиллана. Тэгэхээр сонголттой үлдээж байна.
+# pandas-ta>=0.3.14b
